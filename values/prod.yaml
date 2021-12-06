@@ -1,4 +1,4 @@
-replicaCount: 4
+replicaCount: 1
 
 image:
   repository: 607546651489.dkr.ecr.us-east-1.amazonaws.com/nginx
