@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: nginx
-  tag: stable
+  repository: 607546651489.dkr.ecr.us-east-1.amazonaws.com/sample-microservice
+  tag: latest
   pullPolicy: IfNotPresent
 
 nameOverride: ""
